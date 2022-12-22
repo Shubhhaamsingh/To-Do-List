@@ -26,6 +26,5 @@
 
   $ python manage.py runserver
   ```
-
-  ![ToDO](Screenshot%202022-12-22%20130118.jpg)
-  ![ToDo](Screenshot%202022-12-22%20130252.jpg)
+![Screenshot 2022-12-22 130118](https://user-images.githubusercontent.com/73239204/209089160-624c06bc-448d-4f20-8a0d-9544bf004bf6.jpg)
+![Screenshot 2022-12-22 130252](https://user-images.githubusercontent.com/73239204/209089164-02befe58-ac90-4fb7-8b27-c0042bc28186.jpg)
